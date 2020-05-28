@@ -46,4 +46,4 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 * Contacting the [Awareness Team](https://forms.gle/XRSDLs4aQDeoL6vi9)
 
 ## Credits
-Credits for the sources and inspiration of this code of conduct go to the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Citizen Code of Conduct](http://citizencodeofconduct.org/), the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct), the [Slack Code of Conduct](https://api.slack.com/community/code-of-conduct) and the [Women of React Code of conduct](https://womenofreact.com/code-of-conduct/).
+Credits for the sources and inspiration of this code of conduct go to the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Citizen Code of Conduct](http://citizencodeofconduct.org/), the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct), the [Slack Code of Conduct](https://api.slack.com/community/code-of-conduct), the [Docker Code of Conduct](https://github.com/docker/code-of-conduct) and the [Women of React Code of conduct](https://womenofreact.com/code-of-conduct/).
