@@ -41,7 +41,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If a community activity participant engages in unacceptable behavior, the organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the event without warning (and without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by selecting one of the following options:
-* Submitting this form
+* Submitting this [form](https://forms.gle/1BV1Q2cERQXS175E8)
 * Talking to an organizer
 * Contacting the [Awareness Team](https://forms.gle/XRSDLs4aQDeoL6vi9)
 
