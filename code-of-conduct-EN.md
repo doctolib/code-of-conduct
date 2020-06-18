@@ -15,7 +15,7 @@ The following behaviors are expected and requested of all developers, contributo
 * Be respectful - Exercise consideration and respect in your speech and actions.
 * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the community.
 * Attempt collaboration before conflict.
-* Don’t provide unstructured critique. 
+* Don’t provide unstructured critique. Please read and apply the recommendations in [this guide about delivering proper feedback](additional/delivering-proper-feedback.md).
 * Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential. 
 
