@@ -37,7 +37,7 @@ All examples in this section will explore the fictional situation where you are 
 
 There is no situation where it's OK to be rude.
 
-Rud feedback is counterproductive.
+Rude feedback is counterproductive.
 
 A polite feedback will always be easier to listen to than a rude one.
 
