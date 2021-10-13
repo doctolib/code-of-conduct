@@ -3,10 +3,12 @@ The primary goal of this Code of Conduct is to be inclusive of the largest numbe
 
 This Code of Conduct outlines our expectations for all those who participate in our open to public events, as well as the consequences for unacceptable behavior.
 
+
 ## Scope
-This code and related procedures apply to unacceptable behavior occurring in all Doctolib developer events that are shared with members of the public, including behavior outside the scope of events—online and in person—as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and wellbeing of participants. 
+This code and related procedures apply to unacceptable behavior occurring in all Doctolib developer events that are shared with members of the public, including behavior outside the scope of events–online and in person—as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and wellbeing of participants. 
 
 More precisely, we expect all meetup participants, sponsors, and other guests to abide by this Code of Conduct.
+
 
 ## Expected Behavior
 The following behaviors are expected and requested of all developers, contributors and events participants:
@@ -20,8 +22,7 @@ The following behaviors are expected and requested of all developers, contributo
 * **Be mindful of your fellow participants and surroundings** | Alert community leaders if you notice any dangerous situation, someone in distress, or violations of this Code of Conduct, even if they may seem inconsequential.
 
 
-## Unacceptable behavior
-
+## Unacceptable Behavior
 The following behaviors are considered as harassment and are unacceptable:
 * Conduct or speech which might be considered sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory or offensive in nature.
 * Use of unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
@@ -32,6 +33,7 @@ The following behaviors are considered as harassment and are unacceptable:
 * Unsolicited disruption of community events, including talks and presentations.
 * Inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop and apologize. You should have someone’s consent before touching them.
 * Violence, threats of violence, or violent language.
+
 
 ## Enforcement - Consequences of unacceptable behavior
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
